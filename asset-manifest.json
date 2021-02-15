@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tours-georgia/static/css/main.dd1f0c0e.chunk.css",
+    "main.js": "/tours-georgia/static/js/main.84000bea.chunk.js",
+    "main.js.map": "/tours-georgia/static/js/main.84000bea.chunk.js.map",
+    "runtime-main.js": "/tours-georgia/static/js/runtime-main.0db415bc.js",
+    "runtime-main.js.map": "/tours-georgia/static/js/runtime-main.0db415bc.js.map",
+    "static/js/2.b45e11e9.chunk.js": "/tours-georgia/static/js/2.b45e11e9.chunk.js",
+    "static/js/2.b45e11e9.chunk.js.map": "/tours-georgia/static/js/2.b45e11e9.chunk.js.map",
+    "index.html": "/tours-georgia/index.html",
+    "static/css/main.dd1f0c0e.chunk.css.map": "/tours-georgia/static/css/main.dd1f0c0e.chunk.css.map",
+    "static/js/2.b45e11e9.chunk.js.LICENSE.txt": "/tours-georgia/static/js/2.b45e11e9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0db415bc.js",
+    "static/js/2.b45e11e9.chunk.js",
+    "static/css/main.dd1f0c0e.chunk.css",
+    "static/js/main.84000bea.chunk.js"
+  ]
+}
